@@ -1,0 +1,14 @@
+{
+  "name": "basic-dsa",
+  "version": "1.0.0",
+  "description": "Personal Notes on DSA",
+  "main": "fibonacci-sequence.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Iron-heart",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
